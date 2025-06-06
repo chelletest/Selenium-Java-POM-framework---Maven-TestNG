@@ -1,7 +1,7 @@
 # Selenium Java POM Framework using Maven , TestNG
 # Login Test Framework
 
-This repository contains a **Selenium-based automation framework** built with **Java** for performing login test. It uses the **Page Object Model (POM)** design pattern, **Maven** for dependency management, **TestNG** for running tests, and **ExtentReports** for reporting.
+This repository contains a **Selenium-based automation framework** built with **Java** for performing login test. It uses the **Page Object Model (POM)** design pattern, **Maven** for dependency management, **TestNG** for running tests, and  reporting.
 
 ## Technologies and Tools Used:
 - **Java**: Primary programming language.
