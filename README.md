@@ -19,14 +19,14 @@ The POM design pattern is used to separate the test logic from the UI interactio
 Maven is used for managing project dependencies and build configurations. It ensures that all necessary libraries are included and simplifies the build process.
 
 #  TestNG:
-TestNG is used for managing test execution. It allows you to create test suites, set up parallel execution, and handle test configurations. We also use TestNG annotations to manage setup and teardown steps.
+TestNG is used for managing test execution. It allows you to create test suites, set up parallel execution, and handle test configurations. 
 
 
 #  Prerequisites
 Java 8+ installed.
 Maven installed.
 Selenium WebDriver setup (e.g., ChromeDriver).
-TestNG and ExtentReports dependencies will be downloaded automatically via Maven.
+TestNG dependencies will be downloaded automatically via Maven.
 
 #  Setup Instructions
 1. Clone the Repository
