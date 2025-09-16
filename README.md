@@ -49,3 +49,7 @@ Test listeners (for logging and reporting)
 
 ![Screenshot 2025-06-04 at 10 53 59](https://github.com/user-attachments/assets/40cc9650-e6c1-4c5f-a11b-fbe4f46d50e5)
 
+#  Licence   
+
+This project is licenced under the MIT Licence.
+
